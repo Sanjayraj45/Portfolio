@@ -8,10 +8,9 @@ CS student at CMR Institute of Technology. Full-stack developer and AI/ML enthus
 
 ## Tech Stack
 
-- HTML, CSS, JavaScript
-- Node.js, Express
-- MySQL
-- Machine Learning
+- HTML5
+- CSS3
+- JavaScript
 
 ## Projects
 
